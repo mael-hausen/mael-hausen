@@ -11,7 +11,7 @@ Passionné par le développement logiciel, la programmation et la création d'ap
 - 🎓 Étudiant en BUT Informatique
 - 💻 Intéressé par le développement logiciel et le développement web
 - 🌱 Toujours en train d'apprendre et de découvrir de nouvelles technologies
-- 🥋🟤 Pratiquant de karaté
+- 🥋 Pratiquant de karaté ceinture 🟤
 - 🎯 À la recherche d'opportunités pour développer mes compétences et enrichir mon expérience
 
 ---
