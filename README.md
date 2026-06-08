@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Ton Prénom]
+# 👋 Salut, moi c'est Maël HAUSEN
 
 🎓 Étudiant en 1ère année de BUT Informatique
 
@@ -91,3 +91,6 @@ Application réalisée dans le cadre de ma formation en BUT Informatique.
 ---
 
 ⭐ Merci de visiter mon profil !
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vesperxl&style=flat-square&color=grey" alt="profile views"/>
+</p>
