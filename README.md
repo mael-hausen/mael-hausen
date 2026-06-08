@@ -9,17 +9,16 @@ Passionné par le développement logiciel, la programmation et la création d'ap
 ## 🚀 À propos de moi
 
 - 🎓 Étudiant en BUT Informatique
-- 💻 Intéressé par le développement logiciel et le développement web
-- 🌱 Toujours en train d'apprendre et de découvrir de nouvelles technologies
-- 🥋 Pratiquant de karaté ceinture 🟤
-- 🎯 À la recherche d'opportunités pour développer mes compétences et enrichir mon expérience
+- 💻 Développement logiciel et développement web
+- 🌱 Toujours en train d'apprendre de nouvelles technologies
+- 🥋 Ceinture 🟤 de karaté
+- 🎯 Motivation : progresser en développement et gagner en expérience
 
 ---
 
 ## 🛠️ Compétences
 
 ### Langages
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
@@ -28,7 +27,6 @@ Passionné par le développement logiciel, la programmation et la création d'ap
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Outils
-
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -41,56 +39,43 @@ Passionné par le développement logiciel, la programmation et la création d'ap
 
 ### 🌌 Stargate Mission Manager
 
-Application réalisée dans le cadre de ma formation en BUT Informatique.
-
-#### Fonctionnalités
-
-- Gestion des planètes
-- Gestion des équipes d'exploration
-- Création et suivi des missions
-- Organisation des déplacements interplanétaires
-- Interface permettant la consultation des informations de mission
-
-#### Compétences mobilisées
-
-- Conception d'application
-- Modélisation des données
-- Travail en équipe
-- Gestion de projet
-
-**Technologies utilisées :**
-- C#
-- GitHub
-- Visual Studio
+Projet universitaire de gestion de missions interplanétaires.  
+Application WindowsForms permettant de gérer des équipes, des planètes et des missions avec une logique de jeu de gestion.  
 
 ---
 
-## 📈 En cours d'apprentissage
+### 🌐 CAN – Compagnie Alsacienne de Navigation
 
-- Développement orienté objet avancé
-- Bases de données
-- Développement web
-- Bonnes pratiques de développement logiciel
+Projet combinant un site web et une application C# de gestion de réservations maritimes.  
+Permet la création, l’affichage et le suivi de réservations avec génération de données en JSON.  
+Travail sur une architecture web + application basique terminal.
+
+---
+
+### 🎴 Inscryption (SAE – Jeu de cartes)
+
+Jeu de cartes inspiré d’Inscryption avec gestion de plateau, pioche et combats automatiques.  
+Le joueur affronte l'ordinateur dans un système de tour par tour basé sur des règles de stratégie.  
+Projet axé sur la logique de jeu et la programmation orientée objet.
 
 ---
 
 ## 🎯 Objectifs
 
-- Développer davantage de projets personnels
-- Approfondir mes compétences en Java et C#
-- Découvrir de nouveaux frameworks et outils
-- Acquérir une expérience professionnelle dans le domaine du développement
+- Développer plus de projets personnels
+- Approfondir Java et C#
+- Apprendre de nouveaux frameworks
+- Gagner en expérience professionnelle
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
 - GitHub : https://github.com/mael-hasuen
-- @Mail :  mael.conan.hausen@free.fr
+- Email : mael.conan.hausen@free.fr
 
 ---
 
-⭐ Merci de visiter mon profil !
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vesperxl&style=flat-square&color=grey" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mael-hasuen&style=flat-square&color=grey" />
 </p>
